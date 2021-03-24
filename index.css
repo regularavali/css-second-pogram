@@ -1,0 +1,10 @@
+p
+{
+color:white;
+border:3px dotted red;
+margin:auto;
+padding:50px;
+}
+body{
+background-image:url("bg.jpg");
+}
